@@ -1,4 +1,4 @@
-## Hey, [Adomas here!] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hey, Adomas here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
@@ -18,10 +18,10 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aduomas&layout=compact">
 
 ## Programming Languages
-<img src = 'https://github.com/Aduomas/Aduomas/blob/main/images/cpp.svg' width='30'/> <img src = 'https://github.com/Aduomas/Aduomas/blob/main/images/python2.png' height='30'/>  <img src = 'https://github.com/Aduomas/Aduomas/blob/main/images/html.svg' width='30'/> <img src='https://github.com/Aduomas/Aduomas/blob/main/images/java.svg' width='30'/>  <img src = 'https://github.com/Aduomas/Aduomas/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/Aduomas/Aduomas/blob/main/images/js.svg' width='30'/> <img src = 'https://github.com/Aduomas/Aduomas/blob/main/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/Aduomas/Aduomas/blob/main/images/dart.svg' width='33'/> <img src = 'https://github.com/Aduomas/Aduomas/blob/main/images/sql.svg' width='30'/>
+<img src = 'https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python.svg' width='30'/> <img src = 'https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java.svg' height='30'/> <img src = 'https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript.svg' height='30'/> <img src = 'https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/html/html.svg' height='30'/>  
  
  ## Technologies I Use
- <img src = 'https://github.com/Aduomas/Aduomas/blob/main/images/pycharm.svg' width='30'/> <img src = 'https://github.com/Aduomas/Aduomas/blob/main/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/Aduomas/Aduomas/blob/main/images/django.svg' height='40'/> <img src = 'https://github.com/Aduomas/Aduomas/blob/main/images/flask.png' width='30'/> <img src = 'https://github.com/Aduomas/Aduomas/blob/main/images/git.svg' width='30'/> <img src = 'https://github.com/Aduomas/Aduomas/blob/main/images/nodejs.svg' width='33'/> <img src = 'https://github.com/Aduomas/Aduomas/blob/main/images/react.svg' width='33'/> <img src = 'https://github.com/Aduomas/Aduomas/blob/main/images/google_cloud-icon.svg' width='30'/> <img src = 'https://github.com/Aduomas/Aduomas/blob/main/images/plot_ly-official.svg' width='30'/> 
+ <img src = 'https://github.com/gilbarbara/logos/blob/main/logos/google-cloud.svg' width='30'/> <img src = 'https://github.com/gilbarbara/logos/blob/main/logos/microsoft-azure.svg' width='30'/> <img src = 'https://github.com/gilbarbara/logos/blob/main/logos/flutter.svg' height='40'/> <img src = 'https://github.com/gilbarbara/logos/blob/main/logos/django-icon.svg' width='30'/> <img src = 'https://github.com/gilbarbara/logos/blob/main/logos/flask.svg' width='30'/> <img src = 'https://github.com/gilbarbara/logos/blob/main/logos/aws.svg' width='33'/> <img src = 'https://github.com/gilbarbara/logos/blob/main/logos/create-react-app.svg' width='33'/>
  
 ## Current Works
  * Started learning Dash!
@@ -30,6 +30,8 @@
  
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Aduomas&show_icons=true&hide=%5B%22issues%22%5D)
  
+ 
+
  <!--
 **Aduomas/Aduomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
