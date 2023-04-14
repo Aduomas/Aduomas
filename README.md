@@ -2,7 +2,7 @@
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-adomas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adomas-valiukevi%C4%8Dius-08a139207/)](https://www.linkedin.com/in/adomas-valiukevi%C4%8Dius-08a139207) [![Gmail Badge](https://img.shields.io/badge/-adomasval04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adomasval04@gmail.com)](mailto:adomasval04@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-adomas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adomas-valiukevi%C4%8Dius-08a139207/)](https://www.linkedin.com/in/adomasv) [![Gmail Badge](https://img.shields.io/badge/-adomasval04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adomasval04@gmail.com)](mailto:adomasval04@gmail.com) 
 
 <div style="text-align: right"> Why do software engineers prefer dark mode? Because light attracts bugs! </div>
 
