@@ -28,19 +28,6 @@ From compute to storage, I keep things fast, efficient, and scalable.
 
 ---
 
-## 💻 Tech I Work With
-
-<img src='https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python.svg' width='30'/>
-<img src='https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript.svg' height='30'/>
-<img src='https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp.svg' height='30'/>
-<img src='https://github.com/gilbarbara/logos/blob/main/logos/google-cloud.svg' width='30'/>
-<img src='https://github.com/gilbarbara/logos/blob/main/logos/microsoft-azure.svg' width='30'/>
-<img src='https://github.com/gilbarbara/logos/blob/main/logos/railway.svg' width='30'/>
-<img src='https://github.com/gilbarbara/logos/blob/main/logos/react.svg' width='30'/>
-<img src='https://github.com/gilbarbara/logos/blob/main/logos/firebase.svg' width='30'/>
-
----
-
 ## 🚀 Current Focus
 
 - Building a full-stack **React Native** app  
